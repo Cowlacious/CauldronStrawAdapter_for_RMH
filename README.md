@@ -1,6 +1,8 @@
 # 6/28/2025
+#Carl Cowley
+#www.cowlacious.com
 # CauldronStrawAdapter_for_RMH
-These adapter were designed for use the components of the Floating Bottle Cauldron build at the 2025 Rocky Mountain Haunters gathering.
+These adapters were designed for use the components of the Floating Bottle Cauldron build at the 2025 Rocky Mountain Haunters gathering.
 There are two parts, one that goes into the mouth of the bottle and one goes in the pump, with the straw inbetween them both. 
 A video is included in the respository.
 
